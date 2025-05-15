@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    background-color: rgb(90, 90, 90);
+}
+
+form{
+    background-color: rgb(90, 90, 90);
+    color: rgb(239, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: italic;
+    display: flexbox;
+    min-width: 30%;
+    min-height: 30%;
+    width: auto;
+    height: auto;
+}
+
+button{
+    padding: 35px;
+    border-radius: 10px;
+    background-color: rgb(201, 255, 255);
+    text-align: center;
+}
+label{
+    width: 160px;
+}
